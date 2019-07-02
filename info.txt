@@ -1,0 +1,30 @@
+Инсталим VUE CLI
+npm install -g @vue/cli @vue/cli-init
+
+
+Инсталим NUXT.JS (Загрузка)
+
+ИМЯ-ПРОЕКТА --> подпапка
+vue init nuxt-community/starter-template ИМЯ-ПРОЕКТА
+
+
+истал текущую папку
+vue init nuxt-community/starter-template .
+
+
+Инсталим NUXT.JS (Установка)
+npm install
+
+
+Инсталим поддержку scss \ pug
+npm install --save-dev pug@2.0.3 pug-plain-loader node-sass sass-loader
+
+Запуск
+npm run dev
+
+это только начало)) ну у меня в планах досмотреть курс вводный по вьюхе, потом поковырять. вот потом может и пойму во что ввязался) а так пока что все понятно) я пощел ) доброй ночи) завтра на связи)спс
+
+
+
+
+
